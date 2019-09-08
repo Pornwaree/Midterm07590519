@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Midterm 07590519</string>
+    <string name="goes_to">Goes to</string>
+    <string name="from">From</string>
+    <string name="lives_in">Lives in</string>
+    <string name="move">Move</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="Krung_L" translatable="false">กรุงเทพมหานคร</string>
+    <string name="Ku_G" translatable="false">สวนกุหลาบวิทยาลัย</string>
+    <string name="Krung_F" translatable="false">กรุงเทพมหานคร</string>
+    <string name="promlert_lovichit" translatable="false">Promlert Lovichit</string>
+    <string name="viwe_as">Viwe As</string>
+    <string name="add_to_story">Add to Story</string>
+    <string name="password">password</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="login_to_facebook">Login To Facebook</string>
+</resources>
